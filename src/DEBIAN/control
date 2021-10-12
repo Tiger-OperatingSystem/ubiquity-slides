@@ -1,0 +1,14 @@
+Package: ubiquity-tigeros
+Source: ubiquity-slideshow-ubuntu
+Version: 160
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Ubiquity Slideshow Team <ubiquity-slideshow@lists.launchpad.net>
+Installed-Size: 649
+Conflicts: ubiquity-slideshow
+Replaces: ubiquity-slideshow
+Provides: ubiquity-slideshow
+Section: x11
+Priority: optional
+Homepage: https://launchpad.net/ubiquity-slideshow-ubuntu
+Description: Slides do Ubiquity para TigerOS
